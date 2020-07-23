@@ -1,3 +1,3 @@
 # expAp
 
-It is a sample that use node.js and express.
+It is a sample that use Visaul Studio Code with node.js and express.
